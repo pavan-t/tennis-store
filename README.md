@@ -1,4 +1,4 @@
-# tennis-store
+# tennis-store(E-COMMERCE)
 This is an e-commerce application related to tennis products like racquets, hats, balls etc.
 
 You can analyze the total number of orders placed by client for a provided time frame.
